@@ -1,0 +1,11 @@
+Buiseness :
+
+Buiseness entities : 
+	Consumer, Indirect consumer, Quality assuarance team, Development team, Testing team, Support team, Analysts, Designers/ Architects.
+
+Buiseness Operations : 
+	> Login
+	> Sign up
+	> Sign out
+	> Showing information of candidates
+	> Display information of organisations 

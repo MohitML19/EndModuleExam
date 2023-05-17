@@ -1,0 +1,42 @@
+SRS DOCUMENT:  
+
+Title : Online webapplication for Employee Recruitment System
+
+Objective : To develop employee recruitment system to optimise the recruitment process for an organisation.
+
+
+
+Scope : Employee Recruitment System is webapplication which is useful to all jobseekers. Also it is useful for organizations to provide jobs to jobseekers according
+	to their education and skills. 
+
+Definition : 
+	Online web application for employee recruitment system
+	Buiseness entities
+	Buiseness operations
+
+Buseness entities : 
+	Consumer, Indirect consumer, Quality assuarance team, Development team, Testing team, Support team, Analysts, Designers/ Architects.
+
+Buiseness Operations : 
+	> Login
+	> Sign up
+	> Sign out
+	> Showing information of candidates
+	> Display information of organisations 
+
+Functional Requirements :
+	Job seekers will able to see all requirements or all job openings on webapplication. It will helpful to them to select which job is suitable for them.
+	Jobseekers will able to upload their CV and can apply for job suited to them.
+	Jobseekers will able to update their information on webapplication according to their skill upgradation.
+	Jobseekers can see all required skills, all criterias of organisations, etc.
+	Jobseekers can update their profile by adding specific skills, extracurricular activties, which will help to increase chance of profile shortlisting.
+	Organization staff can upload all job requirements or post all applications on web application.
+	Organization staff can change eligibility criterias if requirement changes.
+	Organization staff will select applications of jobseekers as their requirement.
+        Organization staff will able to select or reject application of student or job seeker.
+        Organization staff will able to view profiles of interested candidates.
+	Organization staff will able to add ,remove, change requirements which they will post.
+
+Non-Functional Requirement : 
+	
+	
